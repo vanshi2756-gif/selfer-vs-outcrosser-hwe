@@ -1,0 +1,3 @@
+dataset,snps_tested,mean_H_obs,mean_H_exp,overall_F_IS,pct_fail_HWE_raw_p05_exact,pct_fail_HWE_FDR05,pct_fail_HWE_bonferroni,pct_chi2_valid_expected_ge5
+P. trichocarpa (outcrosser),3000,0.2994,0.3185,0.06,25.03,7.73,0.83,79.47
+A. thaliana (selfer),3000,0.0,0.2951,1.0,100.0,100.0,100.0,35.6
