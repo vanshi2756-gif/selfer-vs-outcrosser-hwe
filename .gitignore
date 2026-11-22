@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+# raw data is large and is downloaded by scripts/01_fetch_data.sh
+data/*.vcf
+data/*.vcf.gz
+data/*.xlsx
