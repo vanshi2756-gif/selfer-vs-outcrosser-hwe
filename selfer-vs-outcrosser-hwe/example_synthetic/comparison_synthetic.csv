@@ -1,3 +1,0 @@
-dataset,snps_tested,mean_H_obs,mean_H_exp,overall_F_IS,pct_fail_HWE_raw_p05_exact,pct_fail_HWE_FDR05,pct_fail_HWE_bonferroni,pct_chi2_valid_expected_ge5
-Simulated outcrosser (F=0),2857,0.3019,0.301,-0.0027,2.28,0.0,0.0,55.27
-Simulated selfer (F=0.95),2730,0.0152,0.3045,0.9501,100.0,100.0,100.0,56.48
