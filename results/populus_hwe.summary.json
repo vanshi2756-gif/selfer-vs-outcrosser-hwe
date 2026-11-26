@@ -1,0 +1,18 @@
+{
+  "label": "P. trichocarpa (outcrosser)",
+  "vcf": "Panel4SNPv3.vcf",
+  "individuals_analysed": 448,
+  "snps_read": 4654,
+  "snps_passing_filters": 4654,
+  "snps_tested": 3000,
+  "maf_min": 0.05,
+  "mean_h_obs": 0.2993846726190476,
+  "mean_h_exp": 0.31849368639057185,
+  "f_is_overall": 0.059998092860436336,
+  "f_is_mean_per_snp": 0.05870795460329967,
+  "frac_sig_chi2_p05_raw": 0.26566666666666666,
+  "frac_sig_exact_p05_raw": 0.25033333333333335,
+  "frac_sig_exact_fdr05": 0.07733333333333334,
+  "frac_sig_exact_bonferroni": 0.008333333333333333,
+  "frac_chi2_valid_expected_ge5": 0.7946666666666666
+}

@@ -1,0 +1,18 @@
+{
+  "label": "Simulated outcrosser (F=0)",
+  "vcf": "sim_outcrosser.vcf",
+  "individuals_analysed": 200,
+  "snps_read": 3000,
+  "snps_passing_filters": 2857,
+  "snps_tested": 2857,
+  "maf_min": 0.05,
+  "mean_h_obs": 0.3018542293329637,
+  "mean_h_exp": 0.301027218086043,
+  "f_is_overall": -0.00274729724500955,
+  "f_is_mean_per_snp": -0.0037035541694009555,
+  "frac_sig_chi2_p05_raw": 0.03605180259012951,
+  "frac_sig_exact_p05_raw": 0.022751137556877844,
+  "frac_sig_exact_fdr05": 0.0,
+  "frac_sig_exact_bonferroni": 0.0,
+  "frac_chi2_valid_expected_ge5": 0.5526776338816941
+}
